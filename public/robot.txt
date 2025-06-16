@@ -1,0 +1,6 @@
+# Дозволити усім роботам індексувати весь сайт
+User-agent: *
+Disallow:
+
+# Вказати шлях до карти сайту (заміни на свій URL)
+Sitemap: https://your-site.com/sitemap.xml
